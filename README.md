@@ -16,7 +16,7 @@ Untuk menginstall package ini ke laravel tambahkan link github ini ke file `comp
     {
         "type": "git",
         "name": "wongpinter/soap-client",
-        "url": "https://github.com/sugeng/soap-client.git"
+        "url": "https://github.com/wongpinter/feeder-soap-client.git"
     }
   ],
   "require": {
